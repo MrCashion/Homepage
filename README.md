@@ -30,18 +30,18 @@
 | 名称     		|规格  		|             	 说明|
 |---------------|:---------:|:------------------:|
 |低功耗处理器		|STM32L431Rx|Cortex-M4内核		 |
-							| 80MHz主频			 |
-							| 8nA掉电模式		 |
-							| 高速flash			 |
+|				|			| 80MHz主频			 |
+|				|			| 8nA掉电模式		 |
+|				|			| 高速flash			 |
 |低功耗OLED		|128*64		|运行模式10mA功耗		 |
-							|低功耗模式2uA		 |
+|				|			|低功耗模式2uA		 |
 |供电方式		|USB+锂电池	|锂电池3.7V			 |
-							|MicroUSB			 |
+|				|			|MicroUSB			 |
 |NB模组			|BC95、BC35-G|BC95-Bx:单一频段	 |
-							|BC35-G	:全频段		 |
+|				|			|BC35-G	:全频段		 |
 |两种SIM卡接入	|NB卡、eSIM	|普通封装的NBSIM卡	 |
-							|芯片封装的NBSIM卡	 |
-|功耗测量板		|0.01mA精度	|普通封装的NBSIM卡	 |
+|				|			|芯片封装的NBSIM卡	 |
+|功耗测量板		|0.01mA精度	|					 |
 
 You can use the [editor on GitHub](https://github.com/Rock-Cashion/Homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
